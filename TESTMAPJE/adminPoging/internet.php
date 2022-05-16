@@ -48,13 +48,6 @@
                                     <button type="button" name="user_delete" value="" class="btn_btn-danger"> Danger </button>
                                 </form>
                             </td>
-                        
-                        
-                        
-                        
-                        
-                        
-                        
                             </tr>
                     }
                 }
